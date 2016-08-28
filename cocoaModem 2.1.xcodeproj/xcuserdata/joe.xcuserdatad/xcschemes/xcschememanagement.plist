@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>cocoaModem 2.0.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>cocoaModem 2.1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8D1107260486CEB800E47090</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D86CD84C183025C700806D87</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D87A8DBA1836A8CB00439D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D87A8DD41836A8CB00439D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D87A904A1836AC2D00439D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D87A91DC1836ADCB00439D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D87A91F61836ADCB00439D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D88CA7F91830246D00BC8B05</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D88CA8171830246D00BC8B05</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
